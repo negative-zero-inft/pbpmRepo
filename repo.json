@@ -1,0 +1,13 @@
+{
+
+    "name": "official -0 pbpm repo",
+    "maintainers": ["nrd"],
+    "packages": [
+
+        {
+
+            "name": "test",
+            "link": "https://github.com/NRDsstuff/pbpmTestPkg"
+        }
+    ]
+}
